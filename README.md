@@ -1,6 +1,8 @@
 # Laravel example with Nginx Unit
 
-Nginx module is simpler than Nginx + php-fpm
+Nginx Unit is simpler than Nginx + php-fpm
+
+About Unit: <https://unit.nginx.org/>
 
 Disadvantages:
 * No metrics
